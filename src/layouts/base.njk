@@ -49,7 +49,11 @@
           </div>
 
           <div class="courseinfo">
+            {% if site.currentYear %}
             <p>{{ site.courseDates}}, {{ site.currentYear}}</p>
+              {% else %}
+              <p>20{{site.futureYear}} dates coming soon</p>
+            {% endif %}
             <p>Online</p>
           </div>
          

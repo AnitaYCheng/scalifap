@@ -1,5 +1,5 @@
 ---
-title: Registration information
+title: 2025 registration information
 permalink: /registration/
 layout: toc.njk
 description: Registration info for the Southern California AP® summer session, which consists of an intensive online program for both new and experienced AP® instructors in a variety of subjects.
@@ -16,7 +16,7 @@ Any course enrollment changes made after {{ site.lateRegistrationDeadline }} may
 {% if site.registrationLink %}
 	<div class="registrationbutton center"><a href="{{ site.registrationLink }}">For detailed information</a></div>
 	{% else %}
-	<div class="registrationbuttonDisable center">Registration link coming soon</div>
+	
 {% endif %}
 
 ### Payment options
