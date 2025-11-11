@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="{{ '/css/style.css' | url }}" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    
+    <title>
+    {{  title | safe }}
+      {% if title %}
+         | {{ site.name }}
+      {% else %}
+        {{ site.name }}
+    {% endif %}
+    </title>
+
+    <link rel="icon" type= “image/x-icon” href="{{ '/images/favicon.ico' | url }}">
+
+    <meta property="og:title" content="{{  title or site.name | escape }}">
+    <meta property="og:site_name" content="{{ site.name }}"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="{{ site.url + page.url }}"/>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="generator" content="{{ eleventy.generator }}">
+
+
+    {% set desc = description %}
+    {% if instructor %}
+      <meta name="description" content="Details for AP&reg; {{ title }} course taught online by {{ instructor }} on {{ site.courseDates}}, {{ site.currentYear }}, at Southern California AP&reg; Institute.">
+      <meta property="og:description" content="Details for AP&reg; {{ title }} course taught online by {{ instructor }} on {{ site.courseDates}}, {{ site.currentYear }}, at Southern California AP&reg; Institute.">
+    {% endif %}
+    {% if desc %}
+      <meta name="description" content="{{ desc | striptags  }}">
+      <meta property="og:description" content="{{ desc | striptags }}">
+    {% endif %}
+
+  </head>
+
+  <body>
+    <div class="grid-wrapper">
+      <header class="header" aria-labelledby="site-title">
+        <div class="header__content">
+          <div class="site-title" id="site-title">
+            <a href="{{ "/" | url }}"><img class="site-logo" src=" {{ '/images/logo.png' | url }} " alt="" />
+            </a>
+          </div>
+
+          <div class="courseinfo">
+            <p>{{ site.courseDates}}, {{ site.currentYear}}</p>
+            <p>Online</p>
+          </div>
+         
+          {% if site.registrationLink %}
+          <div class="registrationbutton"><a href="{{ site.registrationLink }}">Register</a></div>
+            {% else %}
+            <div class="registrationbuttonDisable">Register soon</div>
+          {% endif %}
+          
+        </div>
+          <nav class="nav">
+            <ul class="nav__list">
+              <li class="nav-item">
+                <a href="{{ '/registration/' | url }}" {% if '/registration/' in page.url %} aria-current="page"{% endif %}>Registration info</a>
+              </li>
+              <li class="nav-item">
+                <a href="{{ '/courses/' | url }}" {% if '/courses/' in page.url %} aria-current="page"{% endif %}>Courses</a>
+              </li>
+              <li class="nav-item">
+                <a href="{{ '/faculty/' | url }}" {% if '/faculty/' in page.url %} aria-current="page"{% endif %}>Faculty</a>
+              </li>
+            </ul>
+          </nav>
+
+      </header>
+
+      <main id="maincontent" class="main">
+        {{ content | safe }}
+      </main>
+
+<footer>
+<div class="footercontent">
+	<div class="info">
+		<p>&copy; Southern California AP&reg; Institute</p>
+		<figure>
+			<img title="College Board endorsement" alt="Endorsement from the College Board" src="{{ '/images/APSI2022.gif' | url }}" />
+			<figcaption>&#42; College Board, AP&reg; and the acorn logo are registered trademarks of the College Board.  Used with permission</figcaption>
+		</figure>
+	</div>
+
+<div class="contact">
+		Southern California AP&reg; Institute, Inc.<br/>
+		P.O. Box 4113<br/>
+		Palos Verdes Peninsula, CA 90275<br/><br/>
+		Office phone: &#40;310&#41; 891-6889 or &#40;310&#41; 897-7015<br/>
+		Fax: &#40;310&#41; 891-3469<br/>
+		Email: <a href="mailto:SCalifAP@gmail.com">SCalifAP@gmail.com</a>
+	</div>
+
+</div><!--end footercontent-->
+
+</footer>
+<script src="{{ '/js/main.js' | url }}" defer></script>
+  </body>
+</html>

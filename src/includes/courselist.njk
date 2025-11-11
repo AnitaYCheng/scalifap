@@ -1,0 +1,12 @@
+<ul class="course-list">
+    {% for courses in courselist %}
+        <li class="post-list__item"> 
+            <a href="{{ courses.url | url }}">
+                {% if courses.data.titleShort %}
+                    {{ courses.data.titleShort }}
+                {% else %}
+                    {{ courses.data.title }}
+                {% endif %}
+            </a></li>
+    {% endfor %}
+</ul>

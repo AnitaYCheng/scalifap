@@ -1,0 +1,22 @@
+{
+  "name": "Southern California AP® Institute",
+  "description": "The Southern California AP&reg; summer session consists of an intensive online program for both new and experienced AP&reg; instructors in a variety of subjects. This short course is designed to equip high school teachers with information that would enhance the achievement of their students on AP&reg; exams.",
+  "url": "https://scalifap.org",
+  "author": {
+    "name": "Larry Calabrese",
+    "email": "SCalifAP@gmail.com"
+  },
+  "currentYear": "2025",
+  "futureYear": "26",
+  "courseDates": "August 4-8",
+  "earlyRegistrationDeadline": "June 7",
+  "lateRegistrationDeadline": "July 22",
+  "earlyRegistrationFee": "$625",
+  "regularRegistrationFee": "$675",
+  "purchaseOrderDeadline": "July 12",
+  "refundFirstDeadline": "July 1",
+  "refundFirst": "$75.00",
+  "refundCancelDeadline": "July 25",
+  "refundLast": "$100.00",
+  "registrationLink": ""
+}

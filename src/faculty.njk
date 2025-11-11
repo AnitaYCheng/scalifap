@@ -1,0 +1,11 @@
+--- 
+layout: base.njk 
+title: Faculty
+description: Faculty members teaching courses at the Southern California AP® Institute.
+---
+<header class="archive">
+    <h1 class="center">Faculty and Courses</h1>
+</header>
+
+{% set facultylist = collections.courses %}
+{% include "facultylist.njk" %}

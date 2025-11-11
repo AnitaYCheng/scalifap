@@ -1,0 +1,12 @@
+--- 
+layout: base.njk 
+title: Courses
+description: Courses offered online at the Southern California AP® Institute.
+---
+<header class="archive">
+    <h1 class="center">Courses</h1>
+    <p class="center">We offer online courses in the following subjects</p>
+</header>
+
+{% set courselist = collections.courses %}
+{% include "courselist.njk" %}

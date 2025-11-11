@@ -1,0 +1,14 @@
+<ul class="course-list">
+    {% for courses in facultylist %}
+        <li class="post-list__item">{{ courses.data.instructor }} 
+            {% if courses.data.titleShort %}
+                <span class="small">({{ courses.data.titleShort }})</span>
+            {% else %}
+                <span class="small">({{ courses.data.title }})</span>
+            {% endif %}
+        {% if courses.data.instructorNew == true %}
+            <span class="new">**New for {{ site.currentYear }}**</span>
+        </li>
+        {% endif %}
+    {% endfor %}
+</ul>
