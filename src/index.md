@@ -15,4 +15,4 @@ Here's what you will receive in our program:
 - Graduate Credit (2 units) ESU/CEU: Dominican University of California (additional fee)
 - Advice on how to plan your AP® calendar year and course audit
 
-The {{ site.currentYear }} online workshop will be conducted {{ site.courseDates }}. We look forward to your participation in our College Board-approved Online AP® Instruction program. Feel free to browse our curriculum and read about our faculty.
+{% if site.ifFutureAvailable %} The {{ site.currentYear }} online workshop will be conducted {{ site.courseDates }}. {% else %} The dates for the 20{{site.futureYear}} workshop will be shared soon. {% endif %} We look forward to your participation in our College Board-approved Online AP® Instruction program. Feel free to browse our curriculum and read about our faculty.
