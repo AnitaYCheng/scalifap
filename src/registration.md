@@ -6,7 +6,7 @@ description: Registration info for the Southern California AP® summer session, 
 ---
 
 ## Fees
-- {{ site.earlyRegistrationFee }} Early Registration (by {{ site.earlyRegistrationDeadline }}, {{ site.currentYear }})
+- {{ site.earlyRegistrationFee }} Early Registration (by {{ site.earlyRegistrationDeadline }}{% if site.currentYear %} , {{ site.currentYear }} {% endif %})
 - {{ site.regularRegistrationFee }} Regular Registration (if space permits)
 
 Fee includes 30 hours of instruction, AP&reg; College Board publications, and course materials from presenters.
