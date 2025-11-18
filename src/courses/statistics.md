@@ -1,8 +1,8 @@
 ---
 title: 'Statistics'
 permalink: /courses/statistics/
-instructor: Chris Olsen
-instructorNew: false
+instructor: Josh Tabor
+instructorNew: true
 titleShort: 
 redirect_from: /courses/stats.html
 ---

@@ -1,5 +1,5 @@
 ---
-title: 2025 registration information
+title: 2026 registration information
 permalink: /registration/
 layout: toc.njk
 description: Registration info for the Southern California AP® summer session, which consists of an intensive online program for both new and experienced AP® instructors in a variety of subjects.
@@ -32,10 +32,9 @@ Fax: (310) 891-3469
 
 ## College Board&reg; approved online program
 - Our Presenters will be utilizing the following proposed format in their sessions:
-	- One third (1/3) synchronous (group) learning
-	- One third (1/3) asynchronous instruction (independent activity)
-	- One third (1/3) individual learning or one to one with the Presenter
-- The daily scheduled hours will be the same: Monday through Friday, 8:00 am to 3:00 pm (Pacific Time) with time allotted for lunch/breaks.
+	- 60 percent synchronous (Zoom group instruction)
+	- 40 percent asynchronous instruction (independent work/consultation)
+- The daily scheduled hours will be the same: Monday through Thursday, 8:00 am to 3:00 pm (Pacific Time) with time allotted for lunch/breaks.
 - The platform for instruction will be Google Classroom and Zoom.
 - Each participant will need a personal Gmail account to access the classroom session. Note: Many school Google classroom accounts do not allow access.
 - The Presenters will post their daily schedules when class begins.

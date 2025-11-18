@@ -1,8 +1,8 @@
 ---
 title: 'Precalculus'
 permalink: /courses/precalculus/
-instructor: Larry Peterson
-instructorNew: false
+instructor: Todd Steckler
+instructorNew: true
 titleShort: 
 redirect_from: /courses/precalculus.html
 ---

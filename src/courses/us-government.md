@@ -2,7 +2,7 @@
 title: 'U.S. Government'
 permalink: /courses/us-government/
 instructor: Terri Susan Fine, Ph.D
-instructorNew: true
+instructorNew: false
 titleShort: 
 redirect_from: /courses/usgovt.html
 ---

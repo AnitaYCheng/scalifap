@@ -2,7 +2,7 @@
 title: 'English Literature and Composition'
 permalink: /courses/english-literature/
 instructor: Tamara Rodriguez-Kam
-instructorNew: true
+instructorNew: false
 titleShort: English Literature
 redirect_from: /courses/englishlit.html
 ---

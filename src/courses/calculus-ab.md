@@ -2,7 +2,7 @@
 title: 'Calculus AB'
 permalink: /courses/calculus-ab/
 instructor: Mark Kiraly
-instructorNew: true
+instructorNew: false
 redirect_from: /courses/calculusab.html
 ---
 <p class="center">Taught by {{ instructor }}</p>

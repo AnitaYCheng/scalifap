@@ -1,7 +1,7 @@
 ---
 title: 'Psychology'
 permalink: /courses/psychology/
-instructor: Jason DeLucco
+instructor: Mike Berndt
 instructorNew: true
 titleShort: 
 redirect_from: /courses/psychology.html

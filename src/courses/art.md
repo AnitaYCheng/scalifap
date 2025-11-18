@@ -1,7 +1,8 @@
 ---
 title: 'Art and Design'
 permalink: /courses/art/
-instructor: Kathleen Blake
+instructor: Martin Loftus
+instructorNew: true
 redirect_from: /courses/art.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
