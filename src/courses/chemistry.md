@@ -7,84 +7,100 @@ redirect_from: /courses/chemistry.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
 
-## The big picture
-Zoom will be used as our platform. Almost two years of experience has led to the adaption of Labs and Activities in the virtual world that explain the concepts and keeps the participants engaged.
+## SMART objectives
+The participants will:
+- plan prepare a calendar that is based on their school’s schedule, the length of the units that need to be covered, and a period of time to practice for the AP&reg; Chemistry Exam.
+- understand the depth and breadth AP&reg; Chemistry curriculum. This will be accomplished by having a good understanding of the
+CED. 
+- experience numerous labs and activities that they may incorporate in their course.
+- experience different pedagogies that may be used to help a wider range of students.
+- understand the format of the AP&reg; Chemistry Exam and strategies to increase their student’s performance.
+- discuss possible ways to reach out to students giving all willing and academically prepared students the opportunity to participate in AP&reg;.
 
-Participants will be asked to share their favorite labs, activities, or classroom management practices.
+## Schedule
+### Monday, Day 1
+AP&reg; Chemistry Resources 
+- What AP&reg; Stands for...
+- AP&reg; Chemistry Lab Manual
+- AP&reg; Central
+- How instructors can qualify to teach an AP&reg; course - The Audit Requirement
+- How and when students sign up for the AP&reg; class/exam
+- Access and Equity
+- AP&reg; Action Verbs
 
-Resources for the course will be given and shared on a Google Drive.
+AP&reg; Classroom - a web page that will help manage...
+- checking student progress
+- comparing your students to the global participation
 
-The workshop will have 30 hours of instruction.
+College Board Announcements
+- The 2025 Scores with comments by Trevor
+- 2025 Chief Reader Report
+- August 2025 - New Practice Exam will be available
 
-## College Board&reg;
-APSI Requirements (10 hours)
-- **Topic 1**: Course and Exam Description & Course Planning (2 hours)
-- **Topic 2**: Diversity & Inclusion and Equity & Access (1 hour)
-- **Topic 3**: Strategies and Pedagogical Tools (3 hours)
-- **Topic 4:** AP&reg; Classroom & AP&reg; Daily (2 hours)
-- **Topic 5**: Assess and Reflect (2 hours)
+School Calendar...Start planning...Look at the resources - time today???
 
-Resources
-- AP® Chemistry Curriculum and Examination Description
-- Participants Workshop Manual
-- AP® Chemistry Lab Manual
-- AP® Central and a NEW AP® Homepage
-- AP® Classroom
-- The Audit Requirement (03)
-- How and when students sign up for the AP® exam
+UNIT 5 - Kinetics
+- Lab/Activity #1: Sulfur Clock Rx
+- Lab/Activity #2: Sulfur Clock Rx - Inquiry
+- Differential Kinetics
+- Lab/Activity #3: Mass Percentage of Copper in Brass (Flinn)
+- Lab/Activity #4: Absorption Demo
 
-AP&reg; Classroom - a web page that will help manage:
-- Resources
-- Testing students
-- Checking student progress
-- Comparing your students to the global participation
-- How to manage time
-- Changes that have been made to the curriculum
+### Tuesday, Day 2
+UNIT 5 – Kinetics (cont.)
+- Videos and Activities
+- Beer&#39;s Law
+- Lab/Activity #5: Colorimetric Equation: What is the Concentration of that Solution?
+- Lab/Activity #6: AP&reg; Investigation: Kinetics: What is the Rate Law? - Integrated
+- Vernier&#39;s SpectroVis and Pasco&#39;s new Spectrophotometer
+- Lab/Activity #7: Radioactive Decay (first year Chemistry) - without the misconception
+- Lab/Activity #8: Radioactive Decay – AP&reg; Level
+- Mechanism and Energy Diagrams
 
-## Examination of the upcoming week
-### General Topics
-- New Test Equation Sheets
-- Best Practices
-- Prior Knowledge – what do the students need to know before your course?
-- Different ways to Model Introductions
-- Sig. Figs for addition, subtraction, multiplication, division, and logs
-- Go over the {{ site.currentYear }} test with Sample Responses
-- New to AP® Chemistry - Mass Spec and PES
+### Wednesday, Day 3
+Transition from Kinetics to Equilibrium
+- Lab/Activity #9: Dueling Graduated Cylinders
+- Solubility Simulation
+- K (equilibrium constant) and k (rate constant) relationship
+- Lab/Activity #10: Equilibrium: Can We Make the Colors of the Rainbow?
 
-### Specific topics
-- Mechanisms
-- Kinetics to Equilibrium
-- Equilibrium/Acid/Base/Titration Curve
-- Why the Ksp is not a good indicator of solubility
-- Spectrophotometry
-- Acid/Base titration curves – the mathematical approach
-- Thermodynamics
-- Heat Capacity - how important is it?
-- Intermolecular Forces - Not Van der Waal Forces
-- Electrochemistry (Electrolytic and Galvanic)
+Equilibrium/Acid/Base/Titration Curve
+- The concepts that you need to know...
+    - What is a weak acid?
+    - What is a buffer?
+    - What is the difference between an endpoint and equivalence?
+    - What happens after equivalence?
+- Lab/Activity #11: K a of a Weak Acid - Inquiry - My Final
 
-### Lab/Activity
-- Sulfur Clock Rx (w/ Inquiry)
-- Radioactive Decay - without the misconception
-- Kinetics: What is the Rate Law?
-- Zero-Order and Second-Order Activities
-- Integrated Rate Law – Crystal Violet Decomposition
-- Dueling Graduated Cylinders
-- Ka of a Weak Acid – Inquiry and a Summative Assessment
-- Equilibrium: Can we Make the Colors of the Rainbow?
-- Solubility - Trouble of the 2
-- The Evaporation of 3 Liquids
-- NH<sub>4</sub>OH + HCl →
+Solubility
+- Lab/Activity #12: Trouble of the 2
+- Why the K sp is not the best indicator of solubility
 
-### Publishers and Science Companies
-In prior APSI workshops resources have been made available. This is a sample list.
-- Vernier
-- PASCO
-- Carolina Biological
-- Sargent Welch
-- Wards
-- Trivedi Chemistry
-- Prentice Hall
-- Flinn
-- Cengage
-- Edvantage
+First Year Chemistry - Prior Knowledge by Idea
+
+Molecular Orbital Theory
+
+PES Graphing Tool
+
+### Thursday, Day 4
+Equity and Access – Individual/School-wide Policy
+
+Intermolecular Forces - *Not Van der Waal Forces*
+- Lab/Activity #13: The Evaporation of 3 Liquids
+- Hydrogen Bonding
+- Lab/Activity #14: Lab - NH 4 OH + HCl
+
+Specific Topic to discuss...Thermodynamics
+- Entropy
+- Boltzman Constant
+- Entropy of matter varies with …
+- Lab/Activity #15 - #16: Lab – Heat Capacity
+    - Heat Capacity - how important is it? VERY!
+- Rubber Band Activity
+- Specific Heat of a Metal
+
+ElectroChem (Electrolytic and Galvanic)
+
+2026 Exam
+- Rubric
+- Student Samples
