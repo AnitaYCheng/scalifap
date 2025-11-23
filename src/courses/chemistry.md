@@ -70,11 +70,11 @@ Equilibrium/Acid/Base/Titration Curve
     - What is a buffer?
     - What is the difference between an endpoint and equivalence?
     - What happens after equivalence?
-- Lab/Activity #11: K a of a Weak Acid - Inquiry - My Final
+- Lab/Activity #11: K<sub>a</sub> of a Weak Acid - Inquiry - My Final
 
 Solubility
 - Lab/Activity #12: Trouble of the 2
-- Why the K sp is not the best indicator of solubility
+- Why the K<sub>sp</sub> is not the best indicator of solubility
 
 First Year Chemistry - Prior Knowledge by Idea
 
