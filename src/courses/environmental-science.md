@@ -19,139 +19,124 @@ There will be frequent checks throughout the week to tailor the workshop around 
 
 ## Schedule, in Pacific time zone
 ### Monday, Day 1
-8am-9am - Synchronous
+8:00-9:15am - Synchronous
 - Introductions to each other, CED and Course
 - What is APES - course overview
 
-9-10am - Asynchronous (optional office hours 9:45-10am)
+9:15-10:30am - Asynchronous (optional office hours 9:45-10:00am)
 - Work on pacing guide – block out units on calendar
-- Watch Video on lab activity – Competition Lab
+- Watch Video on lab activity – **Competition Lab**
 
-10-11am - Synchronous
+10:30-11:30am - Synchronous
 - Pacing Guide vs Audit
 - Planning for teaching through the year and discussion of what is needed on the Audit
 
-11am-12pm - Lunch
+11:30am-12:00pm - Lunch
 
-12-12:30pm - Asynchronous work
-- Watch video on lab activity and review handouts – Winogradsky Columumns
+12:00-1:00pm - Asynchronous work
+- Watch video on lab activity and review handouts – **Eutrophication “Plant impacts on dissolved oxygen”**
 
-12:30-1pm - Synchronous
+1:00-2:00pm - Synchronous
 - Discuss lab and SCIENCE practices
 - Content work on Soils and Agriculture
 
-1-2pm - Asynchronous (optional office hours 1:45-2pm)
-- Watch video on lab activity pH and seed Germination
+2:00-3:30pm - Asynchronous (optional office hours 3:15-3:30pm)
+- Watch video on lab activity **pH and seed Germination**
 
-2-3pm - Synchronous
+3:30-4:00pm - Synchronous
 - AP® Classroom overview
 - Assigning questions using test bank, progress checks
-- What is on the exam
+- *What is on the exam*
 
 ### Tuesday, Day 2
-8am-9am - Synchronous
+8:00-9:15am - Synchronous
 - CED work – topic pages in the unit guide
 - Planning your course for efficient use of time
 
-9-10am - Asynchronous (optional office hours 9:45-10am)
+9:15-10:30am - Asynchronous (optional office hours 9:45-10:00am)
 - Work on pacing guide
 - Assign chapters to pacing guide, and topics
 
-10-11am - Synchronous
+10:30-11:30am - Synchronous
 - Math skills and literacy for Environmental science: Powers of 10, Scientific notation, Percentages, Dimensional analysis
 
-11am-12pm - Lunch
+11:30am-12:00pm - Lunch
 
-12-12:30pm - Asynchronous work
-- Watch video on lab activity – Water Sampling
+12:00-1:00pm - Asynchronous work
+- Watch video on lab activity – **Water Sampling**
 
-12:30-1pm - Synchronous
+1:00-2:00pm - Synchronous
 - Diversity, Access, Equity, Environmental Justice in APES
 - Content discussion on Epidemiology
 
-1-2pm - Asynchronous (optional office hours 1:45-2pm)
-- Watch video on lab activity – Squirreling away lab
+2:00-3:30pm - Asynchronous (optional office hours 3:15-3:30pm)
+- Watch video on lab activity – **Squirreling away lab**
 - Try FRQ {{ site.currentYear }}- 1
-- 2-3pm - Synchronous
+
+3:30-4:00pm - Synchronous
 - Discuss FRQ {{ site.currentYear }}-1
 - Strategies to balance your workload as a teacher
 
 ### Wednesday, Day 3
-8am-9am - Synchronous
+8:00-9:15am - Synchronous
 - AP&reg; Classroom – Progress checks, data, other resources
 - Also discuss case studies
 
-9-10am - Asynchronous (optional office hours 9:45-10am)
+9:15-10:30am - Asynchronous (optional office hours 9:45-10:00am)
 - Work on pacing guide – Add case studies and assessments
+- Watch video and review handout on **Island Biogeography**
 
-10-11am - Synchronous
+10:30-11:30am - Synchronous
 - Formative and Summative methods options and gradebook set up
 
-11am-12pm - Lunch
+11:30am-12:00pm - Lunch
 
-12-12:30pm - Asynchronous work
-- Watch and review handouts on Soil Sampling
+12:00-1:00pm - Asynchronous work
+- Watch and review handouts on **Soil Sampling**
 
-12:30-1pm - Synchronous
-- Logistics and brainstorming on how to field sample within school constraints
-1-2pm - Asynchronous (optional office hours 1:45-2pm)
-- Watch video and review handouts on eutrophication
+1:00-2:00pm - Synchronous
+- How to teach experimental design
+- Strategies
+- Lab ideas
+
+2:00-3:30pm - Asynchronous (optional office hours 3:15-3:30pm)
+- Watch video and review handouts on **Air Quality**
 - Try FRQ {{ site.currentYear }}- 2
 
-2-3pm - Synchronous
-- Try FRQ {{ site.currentYear }}- 2
+3:30-4:00pm - Synchronous
+- Discuss FRQ {{ site.currentYear }}- 2
+
 
 ### Thursday, Day 4
-8am-9am - Synchronous
+8:00-9:15am - Synchronous
 - Gradebook strategies
 - How to grade FRQs using AP® Classroom
 
-9-10am - Asynchronous (optional office hours 9:45-10am)
+9:15-10:30am - Asynchronous (optional office hours 9:45-10:00am)
 - Work on pacing guide – Add labs and activities
-- Watch Video and review handout on Island Biogeography
+- Lab on infectious disease **Pink Bottle Disease**
 
-10-11am - Synchronous
+10:30-11:30am - Synchronous
 - AP® Classroom – Progress checks, data, other resources
 - How to grade FRQs using AP® Classroom
 
-11am-12pm - Lunch
+11:30m-12:00pm - Lunch
 
-12-12:30pm - Asynchronous work
-- Watch Video and review handouts on lab activity - Albedo
+12:00-1:00pm - Asynchronous work
+- Finish work on pacing guide
+- Watch video and review handouts on lab activity - **Albedo**
 
-12:30-1pm - Synchronous
+1:00-2:00pm - Synchronous
 - Using Case Studies and Google MyMaps to build a global perspective
+- What goes into the Audit
+- Instruction planning report
 
-1-2pm - Asynchronous (optional office hours 1:45-2pm)
-- Work on pacing guide - add assessments
+2:00-3:30pm - Asynchronous (optional office hours 3:15-3:30pm)
+- Watch videos and review handouts on **Car Exhaust Sampling**
 - Try FRQ {{ site.currentYear }}- 3
+- Finish working on your pacing guide
 
-2-3pm - Synchronous
+3:30-4:00pm - Synchronous
 - Discuss FRQ {{ site.currentYear }}- 3
-
-### Friday, Day 5
-8am-9am - Synchronous
-- Using your Audit to defend the content you teach to your community
-
-9-10am - Asynchronous (optional office hours 9:45-10am)
-- Watch video on lab activity – Car Exhaust
-- Review handouts
-
-10-11am - Synchronous
-- Discuss experimental design and how to teach it to students
-- Strategies for grading labs efficiently and effectively
-
-11am-12pm - Lunch
-
-12-12:30pm - Asynchronous work
-- Watch video and review handouts on Bubble Lab
-
-12:30-1pm - Synchronous
-- Using instructional planning reports
-- Sharing advice to other teachers on successes and learning experiences in the past
-
-1-2pm - Asynchronous (optional office hours 1:45-2pm)
-- Watch video and review handout on Lab – Cemetery Lab
-
-2-3pm - Synchronous
-- Science Practice 7 HOPE
+- Science Practice 7 
+- HOPE

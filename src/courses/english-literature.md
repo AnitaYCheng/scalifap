@@ -31,9 +31,8 @@ The course will prepare beginning and experienced English teachers to
 ## Agenda
 ### Monday, Day 1
 Welcome and Introductions
-- Expectations
-    - “parking lot”
-- Diversity and Inclusion &amp; Equity and Access
+- Goals
+- Opportunity and Access
 - Overview of the week
 - AP&reg; Literature and Composition: The Big Picture
     - Course Overview
@@ -46,6 +45,7 @@ Welcome and Introductions
     - Daily structures
 - Look at the sample syllabus and preparation/revision time
     - [Sample syllabus](https://docs.google.com/document/d/1O9eRBCbquf2v8yN5s3yXnLL_WuITNFOUP--j0s6Q22I/edit?tab=t.0)
+- Syllabus Construction, the AP&reg; Audit, Yearlong and Semester Plans
 - AP&reg; Classroom Overview
     - What it is
     - Ways to use it
@@ -55,12 +55,12 @@ Welcome and Introductions
 
 ### Tuesday, Day 2
 - Recap previous day
-    - Daily Writing: Modeling
+    - Parking Lot
+    - Goals
 - Writing in our AP&reg; classes
     - Daily Writing
     - Thesis
     - Line of Reasoning
-- Syllabus Construction, the AP&reg; Audit, Yearlong and Semester Plans
 - Unit Overview: Poetry
     - How to get students ready using music
     - “Sound of Silence”
@@ -71,7 +71,6 @@ Welcome and Introductions
     - “The Crossing” (Ruth Moose)
     - “Because I could not stop for Death-” (Emily Dickinson)
     - “I am Offering this Poem” (Jimmy Santiago Baca)
-    - “Who Understands Me But Me” (Jimmy Santiago Baca)
     - “The Man with the Saxophone” (Ai)
     - “Richard Cory” (Edward Arlington Robinson)
     - Practice:
@@ -81,7 +80,7 @@ Welcome and Introductions
         - Reflection
         - Thesis Construction
         - Line of Reasoning
-- Look at {{ site.currentYear }} test
+- Look at AP&reg; Exam {{ site.currentYear }} test
     - Prompt
     - Student Samples
 - Reflect and Project (parking lot)
@@ -100,17 +99,20 @@ Welcome and Introductions
 - Model and practice prose pieces
     - Essential Questions
     - Critical Reading and Annotation Techniques
-- Read “Story of an Hour”
+- *The Metamorphosis*
+    - POV
+    - Plot
+- Read “Story of an Hour” and “The Yellow Wallpaper”
     - Setting
     - Character
-- Read “The Yellow Wallpaper”
     - Note-Taking Guide
     - Digital Composition Overview and Sample Construction
 - Look at AP&reg; exam {{ site.currentYear }} prose
     - Prompt
     - Student Samples
-- Work on a unit or the syllabus
-- Lesson Plan Presentations Work Time
+- Goal Setting Overview
+    - Work on units
+    - Syllabus/scope and sequence
 - Reflect and Project (any parking lot q’s)
 
 ### Thursday, Day 4
@@ -122,7 +124,7 @@ Welcome and Introductions
     - Timed Writing
     - Process Writing
 - Longer Texts in the AP&reg; Classroom
-    - *Hamlet, Metamorphosis*
+    - *Hamlet, The Stranger*
     - Book Clubs
         - Fall Flashback
         - Spring Book Clubs
@@ -130,37 +132,19 @@ Welcome and Introductions
     - Assessments
         - Complete Digital Composition Class Samples
         - Choice Board
-        - Anachronistic Hamlet
+        - Anachronistic *Hamlet*
         - Unit Exam
+- Look at AP&reg; Dxam {{ site.currentYear }} Open Topic
 - Planning Time
-- Lesson Plan Presentations Preparation
+- Lesson Plan Preparation
     - Shared Folder
-- Closure
-    - Remaining connected to the AP&reg; Community
-    - Preparation for Day 5
-        - Summer Reading
-        - Test Review and Preparation
-
-### Friday, Day 5
-- Recap previous day
-- Writing in our AP&reg; Classes
-    - Timed Writing
-    - Process Writing
-    - Managing the Paper Load
-- Book Clubs
-    - Fall Flashback
-    - Spring Book Clubs
-    - Incorporating in Class Alongside Whole Class Texts
-- Planning Time
 - Test Preparation and Review
-    - AP&reg; Classroom Overview and Practice (will move the AP&reg; Classroom as a teaching tool to
-earlier in the week; will use this day for the Test Prep Section)
+    - AP&reg; Classroom Overview and Practice (will move the AP&reg; Classroom as a teaching tool to earlier in the week; will use this day for the Test Prep Section)
     - AP&reg; Review Sessions
         - inside of class
         - outside of class
     - Free Response Preparation
-- Lesson Plan Presentations Preparation
-    - Shared Folder
 - Closure
     - Remaining connected to the AP&reg; Community
-    - Have a great year!
+        - Summer Reading
+        - Test Review and Preparation

@@ -24,36 +24,29 @@ This summer institute will provide participants with an overview of the AP® pro
 
 ## Schedule
 ### Monday, Day 1
-- Introductions
-- Materials
-- Benefits/Challenges of Teaching AP®
-- Equity and Access
-- Exam Format and Breakdown
-- The 7 Course Themes
-- Student Understanding
-- The Course Audit and Curricular Requirements
-- Assessing Student Understanding and Brief Introduction to AP&reg; Classroom
-- Other resources
+1. Introduction and Materials
+2. Benefits and Challenges of Teaching AP&reg;
+3. The AP&reg; Course and Exam at a Glance
+4. Diversity and Inclusion and Equity and Access
+5. The Course and Exam Description (CED)
 
 ### Tuesday, Day 2
-- My Course
-- Textbook Reading Strategies
-- Historical Thinking Skills and Reasoning Processes
+1. AP&reg; Classroom and AP&reg; Daily Resources for Social Sciences
+2. Assessing Student Understanding: Formative v. Summative Assessments
+3. Strategies and Pedagogical Tools
+    - My Course
+    - Textbook Reading Strategies
+    - Historical Thinking Skills and Reasoning Processes
+4. Pacing
 
 ### Wednesday, Day 3
-- Analyzing Evidence
-- Working with Primary and Secondary Sources
-- Discussion Strategies
-- The Multiple Choice Questions
-- Teaching Writing
-- The SAQ
+1. Strategies and Pedagogical Tools
+2. The Individualized Planning Report (IPR)
+3. Analyzing Historical Evidence
+4. Discussion of Sample SAQs and LEQs
+5. Constructing Historical Arguments: The LEQ
 
 ### Thursday, Day 4
-- The LEQ
-- The DBQ
-- The Return of Martin Guerre
-- Brainstorm—Concepts Hardest to Grasp
-
-### Friday, Day 5
-- The Return of Martin Guerre
-- Best Practices
+1. The DBQ and Rubric
+2. A Gallery Walk
+3. Best Practices
