@@ -8,116 +8,144 @@ redirect_from: /courses/spanishlang.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
 
-## Instruction
-This summer institute will guide teachers in designing and developing a course in AP® Spanish Language and Culture. The institute will address sample materials and classroom activities relating to the AP® {{ site.currentYear }} exam and the course. Participants will be invited to actively participate and share best practices with the entire group on a daily basis. Likewise, they will leave with a toolbox of strategies to implement and successfully teach the course and improve student performance on the AP® exam in May.
-
-## Daily schedule
-All times are Pacific Standard Time.
-
-- 08:00-09:30 am (synchronous work)
-- 09:30-09:40 am (break)
-- 09:40-11:30 am (synchronous work)
-- 11:30-12:30 pm (lunch break)
-- 12:30-2:30 pm (asynchronous work)
-- 2:30-3:00 pm (synchronous work, debriefing)
-
 ## Agenda
 ### Monday, Day 1
-#### Review of the AP® Spanish Language and Culture Course and Exam
-1. Introductions
-    - Warm-up activity (how I start my class every day, news)
-    - Zoom norms
+#### Welcome, Orientation, and Understanding the NEW Course Framework
+Synchronous (8:00–9:30am)
+- Welcome, introductions & building community
+- Overview of APSI expectations
+- Warm-up: cultural headline, short interpretive activity, how WE begin our class
+- What changed? New AP Spanish Language & Culture Framework overview
+    - 6 Units + Recommended Instructional Contexts
+    - New Skills Categories 1–3 (Interpretive, Interpersonal/Presentational, Cultural Understanding)
+    - New task types & their placement across the course
 
-2. What will the participants need?
-    - The College Board and the AP® program
-    - Equity and Access in the classroom, the building and the community
+Break (9:30–9:45am)
 
-3. General Information
-    - Textbooks and resources
-    - National Standards and the 5 C’s; Communication, Comparisons, Communities, Cultures and Connections
-    - The modes of Communication
-    - Remote Learning, technologies and resources Online
-    - AP® Central, AP® Community
-    - AP® Classroom (pt. 1)
-    - AP® Reading
-    - AP® Vertical Teams
+Synchronous (9:45–11:00am)
+- The New Exam Overview (MCQs)
+    - Listening + Reading structure (55 questions, 11 sets; new Listening-first order)
+    - Understanding the 5 Listening task types & 4–5 Reading task types
+- Implications for instruction & curriculum design
 
-4. Course and Exam Description
-    - Curriculum Framework
-    - Learning Objectives
-    - Special-needs students and multiple intelligences
-    - Test Day (administration, proctors, equipment, at home or in school)
-    - AP® Themes
-    - Assessments
-    - The AP® Audit (Introduction and Sample syllabi)
-    - Format of the exam for {{ site.currentYear }}
-    - Essential Questions for each unit
-    - Designing Units, Instruction
-    - Wrap Up, Questions
+Lunch (11:00–11:30am)
+
+Asynchronous (11:30–2:00pm)
+- Activity: Explore the new Course Framework (skills + units)
+- Task: Draft or revise your unit overview for Units 1–2 (Families/Communities + Language/Culture)
+- Optional: Begin reflecting on how to integrate cultural products/practices/perspectives
+
+Synchronous (2:00–4:00pm)
+- Equity and Access in the AP Classroom (heritage learners, ELs, pathway alignment)
+- Whole-group debrief of asynchronous work
 
 ### Tuesday, Day 2
-1. Catch Up from day 1
-2. Buenos días/review from day one and go over missed items...
-    - The modes of Communication
-    - AP® Vertical Teams
-    - Un video para hoy
-3. AP&reg; Classroom (pt. 2)
-    - Section I of the Exam Overview
-        - Strategies for reading comprehension (different parts of the multiple choice sections)
-        - Developing and organizing an Interpretive lesson
-        - Graphs, charts and maps
-        - Graphic organizers and mind maps
-        - Authentic resources and literature in the classroom
-        - Incorporating and adapting reading list from AP® Literature and Culture class
-        - Using video in the classroom
-        - Formative and Summative assessments within the Interpretive Communication framework
-        - Finding and using resources Online to enhance the learning and teaching within the Interpretive Communication framework
-4. Wrap up, questions
+#### Interpretive Communication & Multiple-Choice Mastery
+Synchronous (8:00–9:30am)
+- Warm-up interpretive mini-task: audio → chart synthesis
+- Deep dive: Interpretive Communication Skills (1.A, 1.B, 1.C)
+    - Strategies for audio & text comprehension
+    - How to teach students to read charts, patterns, and data
+- MCQ Listening:
+    - Audio + Chart
+    - Audio Report
+    - Instructional Guidance
+    - Interview
+    - Presentation
+    - Modeling & practice
+
+Break (9:30–9:45am)
+
+Synchronous (9:45–11:00am)
+- MCQ Reading task types:
+    - Articles
+    - Article + Chart
+    - Literary Text
+    - Promotional Material
+- Selecting + adapting authentic texts for AP level
+- Group practice: scoring, analyzing distractors, teaching inferencing
+
+Lunch (11:00–11:30pm)
+
+Asynchronous (11:30–2:00pm)
+- Build a mini interpretive task aligned to any of the 6 units
+- Optional challenge: create a dual-skill interpretive task (audio → reading)
+- Work on pacing guide incorporating new interpretive demands
+
+Synchronous (2:00–4:00pm)
+- Review teacher-created interpretive activities
+- Discussion:
+    - How interpretive work supports the FRQs
+    - Scaffolding for diverse learners
 
 ### Wednesday, Day 3
-1. Catch Up from day 2
-2. AP® Classroom (pt. 2)
-    - Authentic resources and literature in the classroom
-    - Incorporating and adapting reading list from AP® Literature and Culture class
-    - Using video in the classroom
-    - Formative and Summative assessments within the Interpretive Communication framework
-3. AP® Classroom (pt. 3)
-    - Interpersonal Communication
-    - Interpersonal writing skills (strategies for success, building proficiency)
-    - Student samples and their evaluation
-    - Using transitions for success
-    - Interpersonal speaking skills (activities, assessments, scoring)
-    - Performance levels of instruction (within Interpersonal Communication)
-    - What is the cultural component of the course?
-4. Wrap up, questions
+#### Overview of the the FRQs
+- Project Presentation (3 min)
+- Project Q&A (4 recorded questions)
+- Argumentative Essay (largely unchanged)
+
+#### Interpersonal & Presentational Communication + The Project
+Synchronous (8:00–9:30am)
+- Warm-up interpersonal exchange
+- Skill Category 2 (Interpersonal & Presentational)—new emphases on:
+    - Register
+    - Cultural expressions
+    - Self-monitoring and comprehensibility (2.B.2–2.B.4)
+- Teaching Interpersonal Speaking via project-related Q&A
+- Strategies for building fluency & spontaneous speech
+
+Break (9:30–9:45am)
+
+Synchronous (9:45–11:00am)
+- The New Project Presentation (20% of score)
+    - What students receive months before the exam (topic, sources)
+    - Teaching research skills (2.C.2), synthesis (2.C.4), cultural analysis (3.A)
+    - How to coach students to prepare a 3-minute presentation
+    - Developing the “Personalized Project Reference” sheet
+- The Project Q&A (15%)
+    - Practice responding to unseen Q&A prompts
+    - Techniques for spontaneous, organized answers
+
+Lunch (11:00–11:30pm)
+
+Asynchronous (11:30–2:00pm)
+- Create a model mini-project for your own course (adapted from any AP unit)
+- Draft Q&A practice questions
+- Reflect: Where will the project live in your yearly pacing?
+
+Synchronous (2:00–4:00pm)
+- Group share-outs of project drafts
+- Coaching & feedback session
+- AP Classroom (Parts 1 and 2): Using topic questions + progress checks to support
+interpersonal/presentational skills
 
 ### Thursday, Day 4
-#### Presentational Writing
-1. Warm up activity
-2. Introduction (continued) to the presentational writing mode from the previous day
-3. Student samples
-4. Practice taking/writing the essay (intro only)
-5. Presentational Speaking skills
-6. Student samples and how to evaluate them
-7. Development/Adaptation of unit(s) designed by attendees
-8. Best practices and strategies for improving in the AP® Spanish Language and Culture Exam
-9. Evaluations
-10. Wrap up, questions
+#### Argumentative Essay, Unit Design, and Best Practices
+Synchronous (8:00–9:30am)
+- Warm-up debate or claim + evidence mini-task
+- Argumentative Essay (15%)
+    - Overview (largely unchanged)
+    - Structure, transitions, citing sources (2.C.5)
+    - Teaching synthesis + cultural integration
+    - Scoring student samples
+- How interpretive skills feed the essay task
 
-#### Asynchronous work for Day 5
-Begin planning a unit or lesson using the newly acquired knowledge from the week shared by all of us. Post a small paragraph describing/summarizing the lesson.
+Break (9:30–9:45am)
 
-Write a small reflection of the week gone by in which you describe how your approach to teaching AP® might be influenced by what you’ve learned from any one of us during this institute. Please post your summary to the document as well.
+Synchronous (9:45–11:00am)
+- Culturally Sustaining Pedagogy in the redesigned exam
+    - Helping students understand products/practices/perspectives (Skill Category 3)
+- Tech & AI integration: ChatGPT, Flip, Edpuzzle, video feedback tools, etc.
+- Vertical alignment: supporting levels 1–4 with new expectations
+- Preparing students for digital exam delivery (Bluebook updates)
 
-### Friday, Day 5
-1. Wrap Up Presentational Speaking
-    - Warm up activity
-    - Student samples
-2. Unit Development
-    - Revisit the CED with purpose of deeper understanding into unit guides to develop thematic units
-3. Time to share out
-    - Websites, programs, videos, audios, etc.
-    - Best practices/tools share out
-4. Evaluations
-5. Wrap up, questions
-6. Final comments
+Lunch (11:00–11:30pm)
+
+Asynchronous (11:30–2:00pm)
+- Build or refine a mini-unit or lesson for your presentations
+- Finalize your instructional artifact (lesson, unit, project component)
+
+Synchronous (2:00–4:00pm)
+- Participant presentations (unit or lesson aligned to new framework) or best practices
+- Final Q&A + “What I’m implementing next year” roundtable
+- Evaluations + closing

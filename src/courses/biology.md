@@ -7,7 +7,7 @@ redirect_from: /courses/biology.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
 
-## Overview
+<!-- ## Overview
 Over the course of this workshop, new and experienced teachers alike will become familiar with the Course and Exam Description (CED) in AP&reg; Biology (2025). The CED organizes the course into eight commonly taught units:
 1. Chemistry of Life
 2. Cell Structure and Function
@@ -47,113 +47,111 @@ The synchronous and asynchronous times are as follows:
 - Share alternative and supplemental class and lab activities
 - Prepare a year-long or semester-long Pacing Guide, create a Lesson Plan for a specific Topic from one of the Units from the CED, and complete a Course Audit
 - Explore the AP® Central website, AP® Classroom, AP® Daily, the Course Audit Portal, and the AP® Community website
-- Learn how the AP® Biology Exam is constructed and scored (MCQs and FRQS)
+- Learn how the AP® Biology Exam is constructed and scored (MCQs and FRQS)-->
 
-## Schedule
+## Tentative schedule
 ### Monday, Day 1
-#### The Course and Exam Description
-Morning Session (8:00-10:00 am PDT)
-1. Discuss each section of the CED and make connections to the Curricular Requirements
-2. Learn how to build conceptual understandings by linking **Enduring Understandings** (concepts) using testable **Learning Objectives** (what the students should be able to do) to **Essential Knowledge** (Content) for each of the **Big Ideas** (Theme)
-3. Use the **Science Practices** (Skills) and the **Essential Knowledges** (Content) to apply the content in new, relevant, and unfamiliar contexts.
-4. **Asynchronous assignment**: EXAMINE the CED to become familiar with its content. Use the Mote APSI ppt to help you unpack the CED. Understanding the Big Ideas, Enduring Understandings, Essential Knowledge Learning Objectives, Sciences Practices - Explore the 8 Unit Guides in the CED.
+#### Understanding the CED &amp; Course Planning
+(Complete Key Takeaway Survey Day #1)
 
-Afternoon Session (1:00-3:00 pm PDT)
-1. Information about Textbooks and Study Guides and Other Resources
-2. Lab Equipment/Materials – Carolina, Ward’s, Flinn, Bio-RAD, Probeware
-3. Lab Manual: AP® Biology Investigative Labs: An Inquiry-Based Approach
-4. Lab Notebooks (Carbonless Life Science Lab Notebooks) and Lab Reports
-5. Information about Graphing Data
-6. **Practicing the Practices**: Investigation 11 Transpiration BI 4 - Whole Plant Method: How to create Tables and Graphs
-7. **Practicing the Practices**: Investigation 4 Diffusion, Osmosis, Water Potential BI 2
-8. **Practicing the Practices**: Investigation 12: Animal Behavior BI 4
+Morning Session
+- Discuss each section of the CED and make connections to the Curricular Requirements
+    - Understanding the Big Ideas, Enduring Understandings, Essential Knowledge Learning Objectives, Sciences Practices
+    - Exploring the 8 Unit Guides
+- Learn how to build conceptual understandings by linking **Enduring Understandings** (concepts) using testable **Learning Objectives** (what the students should be able to do) to **Essential Knowledge** (Content) for each of the **Big Ideas** (Theme)
+- Learn how to use **Science Practices** (Skills) and the **Essential Knowledges** (Content) to apply the content in new, relevant, and unfamiliar contexts.
 
-**Asynchronous Assignment**: Previewing the Science Practices - Teaching for Transfer. Study the information in the CED and the Mote APSI ppt for the following Science Practices.
-- Study the information in the CED and the APSI ppt for the following Science Practices:
+Afternoon Session
+- Information about Textbooks and Study Guides and Other Resources
+- Lab Equipment/Materials – Carolina, Ward’s, Flinn, Bio-RAD, Probeware
+- Lab Manual: AP® Biology Investigative Labs: An Inquiry-Based Approach
+- Lab Notebooks (Carbonless Life Science Lab Notebooks), Lab Reports, Mini posters
+- Mini-posters and CER - View samples of Lab mini-posters and CER mini-posters
+- How to organize the Labs
+
+#### Practicing the Practices: Investigation 11 Transpiration BI 4 - Whole Plant Method
+Previewing the Science Practices - Teaching for Transfer
+1. Study the information in the CED and the APSI ppt for the following Science Practice:
     - SP4 Representing and Describing Data
     - SP5 Statistical Tests and Data Analysis
-- Construct a table and a graph of the data from Investigation 11 - Transpiration. Email this table and graph to patmote7@gmail.com by the beginning of the Day 2 Morning Session.
-- Begin work on creating a semester-long or year-long Pacing Guide that covers the CED: all 8 Units and their Topics. Email this assignment to patmote7@gmail.com by the Friday Morning Session.
+2. Construct a table and a graph of the data from Investigation 11 - Transpiration
+3. Email this table and graph to [patmote7@gmail.com](mailto:patmote7@gmail.com) by the beginning of Day 2 Morning Session.
 
 ### Tuesday, Day 2
-#### Expanding AP® Opportunities
-Morning (8:00-10:00 am PDT)
-1. Discuss curriculum adjustments and instructional strategies that will help to recruit and retain students for the AP® Biology course
-2. Identify classroom-level policies and practices that enhance or restrict student opportunities to participate in AP®
-3. Study the UDL: Universal Design for Learning
-4. Discuss how to develop a One-day Lesson Plan on one topic from one unit of the CED and how to develop a Year-long or Semester Pacing Guide that incorporates all the units, topics, and skills of the course, as referenced in the CED
-5. **Asynchronous assignment**: Study the information in the CED and the APSI ppt to be able to explain Scaffolding and Spiraling of the Science Practices and identify Instructional Approaches for the Science Practices
+#### Expanding Opportunities in Advanced Placement
+(Complete Key Takeaway Survey #2)
 
-Afternoon (1:00-3:00 pm PDT)
-1. Guest Speaker: Matt Huber: Algae Research Supply 1:00-2:00pm PDT
-2. **Practicing the Practices**: Investigation 5: Photosynthesis BI 2
-3. **Practicing the Practices**: Investigation 6: Cellular Respiration BI 2
-4. **Alternative Investigation 5**: [Photosynthesis and Investigation 6 Cellular Respiration](https://www.amazon.com/Algae-Research-Supply-Ready-go/dp/B07YXDJF2B/ref=sr_1_1?dchild=1&amp=undefined&keywords=algae%2Bbeads&qid=1586885185&sr=8-1&fbclid=IwAR2aintxcd9otVjvhplBVngKLtSNaLRTTEBNcdYAeiyrnwPxCMeyqEog9vA&th=1)
+Morning Session
+- Questions? Reflect on Day 1
+- Discuss curriculum adjustments and instructional strategies that will help to recruit and retain under-represented students
+- Identify classroom-level policies and practices that enhance or restrict student opportunities to participate in AP®
+- Study the UDL: Universal Design for Learning
+- Discuss how to develop a One-day Lesson Plan and how to develop a Semester and/or Year-long Pacing Guide that incorporates all the units, topics, and skills of the course, as referenced in the CED
+- Scaffolding and Spiraling the Science Practices: Review Instructional Approaches for Science Practices
 
-**Asynchronous Assignment**
-- Complete a One-day Instructional Lesson Plan for one topic in one of the Units from the CED. Email the unit plan to patmote7@gmail.com by the Day 3 Morning Session. Use the Lesson Planning Template provided in Google Drive to write your Lesson Plan.
+Afternoon Session
+- **Guest Speaker**: Bio-Bits-The Central Dogma: Practicing the Practices: Investigation 9: Biotechnology BI 3 (Handout)
+-  Alternative Investigation 9: [Virtual DNA Gel Electrophoresis MiniOne](https://dnalc.cshl.edu/resources/animations/gelelectrophoresis.html)
+- **Practicing Practices**: Investigation 4 Diffusion, Osmosis, Water Potential BI 2
+- **Practicing Practices**: Investigation 12: Animal Behavior BI 4
+    - **Activity**: Sharing Favorite Labs: email these to Pat Mote at [patmote7@gmail.com](mailto:patmote7@gmail.com)
+
+#### Planning Your Course
+- Create a **One-day Instructional Lesson Plan** for one topic from one of the 8 Units.
+- Email the One-day Lesson Plan to [patmote7@gmail.com](mailto:patmote7@gmail.com) by the Day 3 Morning Session.
+- Write your lesson plan using the Lesson Planning Template in Google Drive.
+- Begin working on a semester-long or year-long Pacing Guide for your course.
+- Email the Pacing Guide to [patmote7@gmail.com](mailto:patmote7@gmail.com) before the Day 4 Morning Session begins.
 
 ### Wednesday, Day 3
-#### Strategies and Pedagogical Tools, AP® Classroom, and AP® Daily
-Morning (8:00-10:00 am PDT)
-1. Identify and explain various instructional strategies and tools that teachers can incorporate in their lesson plans to teach the content and skills in the Course and Exam Description
-2. Explain how teachers need a deep understanding of content and applications
-3. Explain how content and task verbs spiral and scaffold through the curriculum.
-4. **Asynchronous Assignment**: Previewing the Science Practices - Teaching for Transfer. Study the Information in the CED and the APSI ppt for the following Science Practices. PREPARE to share one of the your teaching strategies or tools with other participants.
+#### Strategies and Pedagogical Tools
+(Complete Key Takeaway Survey #3)
+
+Morning Session
+- Questions? Reflect on Day 2
+- Discuss Planning Your Course: Share Lesson Plans
+- Identify and explain various instructional strategies and tools that teachers can incorporate in their lesson plans to teach the content and skills in the Course and Exam Description 
+- Activity: Sharing Favorite Strategies and Tools
+- Explain how teachers need a deep understanding of content and application
+
+#### Previewing the Science Practices - Teaching for Transfer
+1. Study the Information in the CED and the APSI ppt for the following Science Practices:
     - SP 2 – Visual Representations
-    - SP 3 – Questions & Methods
+    - SP 3 – Questions &amp; Methods
     - SP 6 – Argumentation
+2. Select one lab that focuses on one of the 6 Science Practices. Describe the lab and explain how the lab will help your students master this Science Practice Skill.
+3. Email this assignment to [patmote7@gmail.com](mailto:patmote7@gmail.com) by the Day 4 Morning Session.
 
-Afternoon (1:00-3:00 pm PDT)
-1. Guest Speaker: Marc Bliss: BioBits and the Central Dogma: MiniPCR 1:00-2:00pm PDT
-2. Instructional Resources: AP® Classroom (including updates) & AP® Daily
-3. Discuss examples of how AP® Classroom can be utilized to develop each science practice (skill) using example student data provided by the College Board and develop lesson plans that reinforce topic and skill connections.
-4. Share how AP® Daily can be used as a resource
-5. Practicing the Practice:: Investigation 9: Biotechnology BI 3 (Handout in Google Drive)
-6. Alternative Investigation 9: [Virtual DNA Gel Electrophoresis](https://dnalc.cshl.edu/resources/animations/gelelectrophoresis.html)
-7. Practicing the Practices: Investigation 2: Hardy-Weinberg BI 1
-8. Practicing the Practices: Chi Square Analysis: Wooly Worm Lab BI 1
-
-**Asynchronous Assignment**: Previewing the Science Practices - Teaching for Transfer
-- Study the information in the CED and the APSI ppt for the following Science Practice SP 1-Concept Explanation. Complete the mid-week survey and email it to patmote7@gmail.com by Thursday morning.
+Afternoon Session
+- Questions? Time, practice, and feedback - Understanding of the content is earned over time
+- Guest Speaker: Let It Glow from MiniOne 2:00-3:30 pm EDT Bacterial Transformation
+- **Practicing the Practices**: Investigation 8: Biotechnology: Bacterial Transformation BI 3
+    - Alternative Investigation 8: [Virtual pGLO Bacterial Transformation](https://web.archive.org/web/20201105232021/http://www.phschool.com/science/biology_place/labbench/lab6/concepts1.html)
+- **Practicing the Practices**: Investigation 2: Hardy-Weinberg BI 1
+- **Practicing the Practices**: Chi-Square Analysis: Wooly Worm Lab BI 1
+- **Previewing the Science Practices - Teaching for Transfer**: Study the information in the CED and the APSI ppt for the following Science Practices: SP 1-Concept Explanation
 
 ### Thursday, Day 4
-#### AP® Course Audit and AP® Community
-Morning Session (8:00-10:00 am PDT) (The Cvent Survey from the College Board will be emailed.)
-1. Any QUESTIONS about the Course Audit?
-2. What is the Instructional Planning Report (IPR)? (Interpreting the data to identify student strengths and weaknesses and reflect on implications for instruction.)
-3. Mini-posters and CER - View samples of Lab Mini-posters and CER Mini-posters
-4. Time, practice, and feedback – The understanding of content is earned over time.
-5. **Asynchronous Assignment**: READ through the syllabus on the College Board Course Audit Site or a syllabus you have access to. Check to be sure the syllabus has all the required components. You may use the Syllabus Review Activity in Google Drive to check for completeness.
+#### AP® Classroom, Community, Course Audit, Assessment: 2026 AP&reg; Biology Exam
+(Complete Key Takeaway Survey #4)
 
-Afternoon Session (1:00-3:00 pm PDT)
-1. Guest Speaker: Whitney Haggins – PTC Graphing and Statistics - MiniOne 1:00-2:00 pm PDT (Also available: Let It Glow – A Bacterial Transformation)
-2. **Practicing the Practices**: Investigation 2: Mathematical Modeling Hardy-Weinberg BI 1
-3. **Practicing the Practices**: Investigation 8: Biotechnology BI 3 (Handout in Google Drive)
-    - Alternative Investigation 8: [Virtual pGLO Bacterial Transformation](https://web.archive.org/web/20201105232021/http://www.phschool.com/science/biology_place/labbench/lab6/concepts1.html)
+Morning Session
+- Questions? Reflect on Day 3
+- Note: The Cvent Survey from the College Board will be emailed at the end of today.
+- Instructional Resources: AP&reg; Classroom (including updates) &amp; AP&reg; Daily
+- Discuss examples of how AP&reg; Classroom can be utilized to develop each skill/practice using example student data provided by the College Board and develop lesson plans that reinforce topic and skill connections. 
+- Share how AP&reg; Daily can be used as a resource.
+- AP&reg; Central and AP&reg; Community
+- AP&reg; Course Audit – Syllabus Review Activity
+- Instructional Planning Report (IPR) – Interpreting this data to identify student strengths and weaknesses and reflect on implications for instruction.
+- Joining the AP&reg; Community and Finding Additional Resources
+    - Using PPC’s as Formative Assessments
+    - Explain the difference between Formative and Summative Assessments
+    - AP&reg; Biology Exam Structure for 2026
 
-Asynchronous Assignment:
-- Complete work on creating a semester-long or year-long Pacing Guide that covers the CED: all 8 Units and their Topics. Email this assignment to patmote7@gmail.com by the Friday Morning Session.
-
-### Friday, Day 5
-#### Assessments: {{ site.currentYear }} AP® Biology Exam
-Morning (8:00-10:00 am PDT)
-1. Teaching for Understanding and Transfer
-2. Formative vs Summative Assessments
-3. AP® Biology Exam Structure – Format CED p. 193 – Remember UBD
-4. Activity: A close look at the {{ site.currentYear }} AP® Biology Exam FRQs (including the FRQs with their Scoring Guidelines and Sample Responses)
-5. Practicing the Practices: Investigation 5: Photosynthesis BI 2
-6. Practicing the Practices: Investigation 6: Cellular Respiration BI 2
-    - Alternative Investigation 5: [Photosynthesis and Investigation 6 Cellular Respiration BI 2](https://www.amazon.com/Algae-Research-Supply-Ready-go/dp/B07YXDJF2B/)
-7. **Asynchronous Assignment**: Be able to EXPLAIN the difference between Formative and Summative Assessments. PROVIDE examples of each. Explain how the PPC’s from AP&reg; Classroom can be used as formative assessments. Explain how the Unit Tests and the AP&reg; Biology Exam can be used as summative assessments. Complete the 5 Key Takeaway Survey found in the UGA Online APSI Folder in Google Drive. Email to me this afternoon: patmote7@gmail.com.
-
-Afternoon (1:00-3:00 pm PDT)
-1. Discussion of how FRQs are scored with Data from the {{ site.currentYear }} AP&reg; Biology Exam
-2. Guest Speaker: Matt Huber: Algae Research Supply 1:00-2:00pm PDT
-3. Practicing the Practices: Investigation 5: Photosynthesis BI 2
-4. Practicing the Practices: Investigation 6: Cellular Respiration BI 2
-5. Alternative Investigation 5: [Photosynthesis and Investigation 6 Cellular Respiration BI 2](https://www.amazon.com/Algae-Research-Supply-Ready-go/dp/B07YXDJF2B/)
-6. Activity: Making Time to Review for the AP&reg; Biology Exam
-7. Questions about anything we have discussed during the week?
-
-Don’t forget to complete the APSI Cvent Survey and the 5 Key Take-aways Survey.
+Afternoon Session:
+- Formative vs. Summative Assessment: Questions?
+- AP&reg; Biology Exam Structure
+- Activity: A close look at the 2026 AP&reg; Biology Exam FRQs (Scoring Guidelines and Sample Responses)
+- Activity: Making Time to Review for the AP&reg; Biology Exam 
+- Reflection on the activities of the week and complete the APSI Cvent Survey

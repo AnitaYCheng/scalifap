@@ -8,34 +8,77 @@ redirect_from: /courses/psychology.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
 
-## Overview
-During this AP&reg; Psychology APSI led by Jason DeLucco, you’ll explore the course framework, the exam, and the new AP&reg; resources that will help you plan and focus instruction – and give you feedback throughout the year on the areas where individual students need additional focus. 
+## Agenda
+### Monday, Day 1
+#### Morning
+8:00-10:00 Synchronous
+- Introductions and meeting the needs of participants
+- Textbooks and supplemental materials
+- Websites and resources promoting the teaching of AP&reg; Psychology
+- Expanding AP&reg; Opportunities
+- Digital Format for the May Exam
+- Overview of the Course and Exam Description (CED)
 
-You’ll also learn about completing the digital activation process at the start of the school year that will give you immediate access to the new resources and will help ensure that your students can register for AP&reg; Exams by the new fall deadlines. 
+10:00-12:00 Asynchronous
+- Examine the content of the CED, AP&reg; Central, and complete the Audit (if necessary)
 
-By attending this Online APSI, you’ll gain deeper insight into the following key takeaways, among several others: Understand the Course; Plan the Course; Teach the Course; Assess Student Progress; and Engage as a Member of the AP&reg; Community. In addition, specific attention will be paid to the following AP&reg; Classroom resources: unit guides, personal progress checks, AP&reg; teacher community, and the AP&reg; question bank.
+#### Afternoon
+1:00-3:00 Synchronous
+- AP&reg; Classroom
+- Explore multiple choice, AAQ, and EBQ preparation and strategies
+- AP&reg; Reading
+- Pacing calendars examples (year-long, semester, block, traditional, etc...)
+- Instructional Planning Reports
 
-## Description
-This course is designed to help both new and experienced teachers build a successful AP&reg; Psychology program with motivated, engaged students. As much as possible, the course will attempt to be individualized to meet the needs of each individual, while still covering broad topics for the benefit of all involved.
+3:00-4:30 Asynchronous
+- Explore the resources in AP&reg; Classroom and look at released AAQs.
 
-The course will include basic logistical considerations like exams and homework, preparing for the AP&reg; Exam in terms of multiple choice and free response questions, understanding the curriculum framework, pacing the course, and a significant amount of content activities and instructional assistance. Topics that are often challenging to students (and instructors!) will be emphasized, to improve comprehension. 
+### Tuesday, Day 2
+#### Morning
+8:00-10:00 Synchronous
+- Discussion and sharing of resources, activities, demonstrations, and content for Unit 0: 
+- 6 Approaches &amp; Research Methods
 
-We will examine the NEW Course and Exam Description (CED), College Board&reg; resources, and the AP&reg; exam in detail, with considerable time devoted to helping students succeed with qualifying scores. Whether someone is new to teaching AP&reg; Psychology or a veteran with years of experience, everyone should come away with something new and useful to put into practice in their classrooms right away.
+10:00-12:00 Asynchronous
+- Grade samples of the AAQ
 
-## Necessary materials
-- Laptop computers (phones and tablets will likely be insufficient for some tasks) and chargers.
-- Access to Google Drive (having a personal or professional account should not matter, but resources will be shared through Google Drive)
-- If possible, a copy of the textbook that you are likely to use. If you have supplemental materials that you already know about and find useful, those would be helpful as well. 
-- Access to AP&reg; Central and AP&reg; Classroom (if possible - contact your school’s AP&reg; coordinator)
-- Access to College Board&reg; materials which are provided by the institute.
-- If applicable (more for veteran teachers), please bring a favorite lesson, activity, or demonstration that you have found engaging and useful for your students. We will share as many of these as we can.
-- Finally, please bring a thirst for learning, a strong desire to improve your instruction, and a willingness to reflect on your current practices. Collectively, we want to find the best practices and utilize them in all AP&reg; classrooms.
+#### Afternoon
+1:00-3:00 Synchronous
+- Discussion and sharing of resources, activities, demonstrations, and content for Unit 1: Biological Bases of Behavior.
 
-## Goals
-- You will be familiar with the new CED/AP&reg; Classroom and will have practical ways to make use of them in your course.
-- You will be able to align your curriculum to the unit structure of the new AP&reg; Course and Exam Description in a way that is practical for you and your students.
-- You will be able to create a year-long or semester pacing guide for your course, with what to teach and how long to teach it.
-- You will learn about how to interweave content and skills throughout the course to increase student learning and mastery
-- You will understand the assessments for AP&reg; Psychology - Multiple Choice questions and FRQs - creating, writing, and scoring.
-- You will learn about and be able to implement a variety of different demonstrations and activities that may help to keep the course interesting, challenging, and engaging.
-- You will develop a network of other AP&reg; Psychology instructors, for instructional support and collaboration moving forward.
+3:00-4:30 Asynchronous
+- Compare how you graded the AAQ samples with the answers from the College Board.
+
+### Wednesday, Day 3
+#### Morning
+8:00-10:00 Synchronous
+- Discussion and sharing of resources, activities, demonstrations, and content for Unit 2: Cognition.
+
+10:00-12:00 Asynchronous
+- Look at released EBQ samples  and work on your pacing calendar.
+
+1:00-3:00 Synchronous
+- Discussion and sharing of resources, activities, demonstrations, and content for Unit 3: Development and Learning.
+
+3:00-4:30 Asynchronous
+- Practice grading EBQ with samples
+
+### Thursday, Day 4
+#### Morning
+8:00-10:00 Synchronous
+- Discussion and sharing of resources, activities, demonstrations, and content for Unit 4: Social Psychology and Personality.
+
+10:00-12:00 Asynchronous
+- Compare how you graded the EBQ samples with the answers from the College Board.
+
+#### Afternoon
+1:00-3:00 Synchronous
+- Discussion and sharing of resources, activities, demonstrations, and content for Unit 5: Mental &amp; Physical Health
+- End of year review strategies 
+- Post-exam lessons
+
+3:00-4:30 Asynchronous
+- Work on your pacing calendar
+- Copy resources to your Google Drive
+- Q &amp; A
+- Evaluations
