@@ -8,6 +8,15 @@ redirect_from: /courses/physics.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
 
+## Overview
+Participants in this summer institute will have the opportunity to meet and learn from others who are developing Advanced Placement Physics programs in their schools. Current and aspiring AP&reg; Physics teachers will strengthen their knowledge of the subject, develop laboratory and demonstration materials for use in their own classrooms, become familiar with the AP&reg; Physics program and preview its modified scope and sequence starting in the 2024-25 school year. They will come away from the institute with many materials, including the College Board AP&reg; Physics packet (electronic copy), sample course syllabi, and the solutions to the 2026 free response exams.
+
+Time will be spent working on problem solving techniques and discussing approaches to teaching AP&reg; Physics —including development of a course syllabus and designing labs and assessments that address higher order thinking skills. Participants will be given opportunities to work in breakout groups to discuss and present problem solutions and discuss approaches to teaching. Materials for AP&reg; Physics 1 will be provided on Google Drive, allowing teachers to select from activities that are most needed for their classrooms. Everyone will develop a course plan and timeline—either using their existing syllabus or starting the framework of a new syllabus. 
+
+In advance of the institute, please do the following:
+1. Ask your school AP&reg; Coordinator or other official to authorize your permissions to your AP&reg; course for 2023-24 so you can gain access to AP&reg; Classroom. 
+2. [Download a copy](https://apcentral.collegeboard.org/courses/ap-physics-1) to your computer of the Course and Exam Descriptions for the AP&reg; Physics course for which you are preparing
+
 ## Tentative daily syllabus
 On Day 3 or Day 4, a guest Curriculum Lead from The College Board will be invited for a 30-minute “Ask the Expert” session to answer your questions related to the new CED changes, corrections, and new exam testing format.
 
