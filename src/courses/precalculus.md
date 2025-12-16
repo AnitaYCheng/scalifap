@@ -9,4 +9,202 @@ redirect_from: /courses/precalculus.html
 <p class="center">Taught by {{ instructor }}</p>
 
 ## Schedule
-Coming soon!
+### Monday, Day 1
+- 8:00 - 9:00 (Asynchronous) 
+    - Steckler - Office Hour, Scavenger Hunt CED	
+- 9:00 - 9:15 (Attendance - Welcome)
+	- Expectations of APSI	
+- 9:15 - 10:00 (Breakout Session ONE)
+    - Introductions - Scavenger Hunt CED Finish up and Calculator Circuit Training	
+- 10:00 - 10:15 (Large Group)
+    - Debrief and Equity and Access Powerpoint	
+- 10:15 - 10:30 (Large Group)
+	- About the AP&reg; Exam	
+- 10:30 - 10:50 (Breakout Session TWO)
+	- Instructional Strategies	
+- 10:50 - 11:00 (Large Group)
+	- Debrief
+    - AP&reg; Course Audit Process
+    - Syllabus Development Guide	
+- 11:00 - 11:30 (Large Group)
+	- Scope & Sequence
+    - Important Definitions - Unit 1	
+- 11:30 - 12:00 (Lunch)		
+- 12:00 - 12:30 (Asynchronous)
+	- Math Practices
+    - Sample Instructional Activities
+    - Task Verbs
+    - Instructional Approaches and Planning POWERPOINT	
+- 12:30 - 12:40 (Large Group)
+	- Introduce Polynomial Functions Finite Differences Activity	
+- 12:40 - 1:10 (Breakout Session THREE)
+	- Polynomial Functions Finite Differences Activity	
+- 1:10 - 1:20 (Large Group)
+	- Debrief Finite Differences
+    - Introduce Incr/Decr/ConcUp/ConcDown Activity	
+- 2:00 - 2:15 (Large Group)
+	- Important Definitions - Unit 1	
+- 2:15 - 2:30 (Breakout Session FOUR)
+	- Polynomial Functions Incr/Decr/Concave Up/Concave Down Activity	
+- 2:30 - 2:40 (Break)		
+- 2:40 - 2:50 (Large Group)
+	- Curve Sketching Graphs
+    - HW 2 Polynomial Functions ONE example together	
+- 2:50 - 3:10 (Breakout Session FIVE)
+	- HW 2 Polynomial Functions - selected problems AND  ALL INFO - Polynomial Functions	
+- 3:10 - 3:20 (Large Group)
+	- Important Definitions Unit 1 - Transformations	
+- 3:20 - 3:50 (Breakout Session SIX)
+	- Transformations Activity	
+- 3:50 - 4:00 (Large Group)
+	- Debrief & Day ONE Takeaways
+
+### Tuesday, Day 2
+- 8:00 - 9:00 (Asynchronous)
+	- Scavenger Hunt - DESMOS
+- 9:00 - 9:20 (Large Group)
+	- Ice Breaker & ALL INFO - Rational Functions
+- 9:20 - 9:50 (Breakout Session ONE)
+    - ALL INFO - Rational Functions
+- 9:50 - 10:10 (Large Group)
+	- Debrief & Important Definitions Unit 1
+- 10:10 - 10:40 (Breakout Session TWO)
+	- Rational Functions - Sudoko
+- 10:40 - 10:50 (Large Group)
+    - FRQ 1 - Deep Dive
+- 10:50 - 11:30 (Breakout Session THREE)
+    - Multiple Choice Unit 1, FRQ 1, FRQ 1 from 2024/2025
+- 11:30 - 12:00 (Lunch)	
+- 12:00 - 12:30 (Asynchronous)
+	- Unit 1 Assessments
+- 12:30 - 1:00 (Large Group)
+	- Debrief FRQ 1, AP&reg; Classroom, AP&reg; Central, Instructional Reports, Grading, Review, Summative Exams
+- 1:00 - 1:10 (Large Group)
+	- Definitions Unit 2 ; Introduce Change in Functions with a TWIST
+- 1:10 - 1:30 (Breakout Session FOUR)
+	- Change in Functions with a TWIST (with presentation)
+- 1:30 - 1:50 (Large Group)	
+    - Presentations
+- 1:50 - 2:10 (Breakout Session FIVE)
+    - Half-Life Problem
+- 2:10 - 2:20 (Large Group)
+	- Debrief Half-Life Problem
+- 2:20 - 2:30 (Break)	
+- 2:30 - 2:45 (Large Group)
+	- Half-Life Problem with Semi-Log Plots
+- 2:45 - 3:00 (Large Group)
+	- Super Bowl Problem Residual Plots and R^2
+- 3:00 - 3:15 (Breakout Session SIX)
+	- Super Bowl Problem
+- 3:15 - 3:25 (Large Group)
+	- Modeling Functions from Scenarios
+- 3:25 - 3:45 (Breakout Session SEVEN)
+    - Function formulation AND other questions to be asked.
+- 3:45 - 3:55 (Large Group)
+	- Questions developed from Modeling Functions
+- 3:55 - 4:00 (Large Group)
+	- Debrief and Day 2 TAKEAWAYS
+
+### Wednesday, Day 3
+- 8:00 - 8:15 (Large Group)
+	- Intro and Ice Breaker
+- 8:15 - 8:35 (Breakout Session ONE)
+	- More Regression and Semi-Log
+- 8:35 - 8:55 (Large Group)
+	- ALL INFO - Log Functions
+- 8:55 - 9:05 (Large Group)
+	- Deep Dive FRQ 2
+- 9:05 - 9:45 (Breakout Session TWO)
+	- Multiple Choice Questions Unit 2
+    - FRQ 2
+    - FRQ 2 (2024, 2025)
+- 9:45 - 9:50 (Large Group)
+	- Debrief FRQ 2
+- 9:50 - 10:00 (Break)	
+- 10:00 - 10:10 (Large Group)
+	- Definitions - Unit 3
+    - Definition of Radian - Links
+- 10:10 - 10:20 (Large Group)
+	- Definitions - Unit 3 (Sinusoidal Functions - emphasis on solving equations/inequalities)
+- 10:20 - 11:00 (Breakout Session THREE)
+	- ALL INFO - Sinusoidal Functions
+- 11:00 - 11:05 (Large Group)
+	- Explain Pictionary
+- 11:05 - 11:30 (Breakout Session FOUR)
+	- Pictionary
+- 11:30 - 12:00 (Lunch)	
+- 12:00 - 12:30 (Asynchronous)
+    - Unit 2 Assessments
+- 12:30 - 12:40 (Large Group)
+	- Deep Dive - FRQ 3
+- 12:40 - 1:20 (Breakout Session FIVE)
+	- FRQ 3, FRQ 3 (2024,2025)
+- 1:20 - 1:30 (Large Group)
+	- Unit 3 Definitions (Tan/Cot/Sec/Csc)
+- 1:30 - 2:00 (Breakout Session SIX)
+	- ALL INFO - Tan function
+- 2:00 - 2:10 (Large Group)
+	- Unit 3 Definitions (Inverse Sin, Inverse Cos, Inverse Tan)
+- 2:10 - 2:40 (Breakout Session SEVEN)
+	- ALL INFO - Inverse Sin
+- 2:40 - 2:50 (Break)	
+- 2:50 - 3:00 (Large Group)
+	- Unit 3 Definitions - Trig Identity Toolkit
+    - Solving Equations
+- 3:00 - 3:10 (Large Group)
+    - Deep Dive - FRQ 4
+- 3:10 - 3:45 (Breakout Session EIGHT)
+	- FRQ 4, FRQ 4 (2024, 2025)
+- 3:45 - 3:55 (Large Group)
+	- Debrief FRQ 4
+- 3:55 - 4:00 (Large Group)
+	- Debrief and Day 3 TAKEAWAYS
+
+### Thursday, Day 4
+- 8:00 - 8:10 (Large Group)
+	- Introduce icebreaker
+- 8:10 - 8:20 (Large Group)
+    - Introduce vector / parametric activity
+- 8:20 - 8:50 (Breakout Session ONE)
+	- Vector / parametric activity
+- 8:50 - 9:00 (Large Group)
+    - Introduce Battleship Game
+- 9:00 - 9:40 (Breakout Session TWO)
+	- Battleship Game
+- 9:40 - 9:45 (Large Group)
+	- Debrief Battleship
+- 9:45 - 9:55 (Break)	
+- 9:55 - 10:10 (Large Group)
+	- Polar Equation Graphing with Google Sheet, including Rate of Change
+- 10:10 - 10:40 (Breakout Session THREE)
+	- Polar Equation Graphing with Google Sheet, including Rate of Change
+- 10:40 - 10:50 (Large Group)
+	- Debrief Polar Equation Graphing Activity
+- 10:50 - 11:20 (Breakout Session FOUR)
+	- Multiple Choice Unit 3
+- 11:20 - 11:30 (Large Group)
+	- Debrief Multiple Choice Unit 3
+- 11:30 - 12:00 (Lunch)	
+- 12:00 - 12:30 (Asynchronous)
+	- Unit 3 Assessments
+- 12:30 - 1:30 (Breakout Session FIVE)
+	- Scope-and-Sequence Planning for 2025-26
+- 1:30 - 1:45 (Large Group)
+	- Introduce Grading for FRQ 1
+- 1:45 - 2:00 (Breakout Session SIX)
+	- Grading for FRQ 1
+- 2:00 - 2:15 (Large Group)
+	- Introduce Grading for FRQ 4
+- 2:15 - 2:30 (Breakout Session SEVEN)
+	- Grading for FRQ 4
+- 2:30 - 2:45 (Break)	
+- 2:45 - 3:00 (Large Group)
+	- Introduce Grading for FRQ 3
+- 3:00 - 3:15 (Breakout Session EIGHT)
+	- Grading for FRQ 3
+- 3:15 - 3:30 (Large Group)
+	- Introduce Grading for FRQ 2
+- 3:30 - 3:45 (Breakout Session NINE)
+	- Grading for FRQ 4
+- 3:45 - 4:00 (Large Group)
+	- Evaluation of the week
