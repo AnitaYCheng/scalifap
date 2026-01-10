@@ -9,7 +9,7 @@ redirect_from: /courses/chemistry.html
 
 ## SMART objectives
 The participants will:
-- plan prepare a calendar that is based on their school’s schedule, the length of the units that need to be covered, and a period of time to practice for the AP&reg; Chemistry Exam.
+- prepare a calendar that is based on their school’s schedule, the length of the units that need to be covered, and a period of time to practice for the AP&reg; Chemistry Exam.
 - understand the depth and breadth AP&reg; Chemistry curriculum. This will be accomplished by having a good understanding of the
 CED. 
 - experience numerous labs and activities that they may incorporate in their course.
@@ -33,9 +33,9 @@ AP&reg; Classroom - a web page that will help manage...
 - comparing your students to the global participation
 
 College Board Announcements
-- The 2025 Scores with comments by Trevor
-- 2025 Chief Reader Report
-- August 2025 - New Practice Exam will be available
+- The 2026 Scores with comments by Trevor
+- 2026 Chief Reader Report
+- August 2026 - New Practice Exam will be available
 
 School Calendar...Start planning...Look at the resources - time today???
 

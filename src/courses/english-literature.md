@@ -134,7 +134,7 @@ Welcome and Introductions
         - Choice Board
         - Anachronistic *Hamlet*
         - Unit Exam
-- Look at AP&reg; Dxam {{ site.currentYear }} Open Topic
+- Look at AP&reg; Exam {{ site.currentYear }} Open Topic
 - Planning Time
 - Lesson Plan Preparation
     - Shared Folder

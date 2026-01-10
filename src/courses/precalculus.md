@@ -73,7 +73,7 @@ redirect_from: /courses/precalculus.html
 - 10:40 - 10:50 (Large Group)
     - FRQ 1 - Deep Dive
 - 10:50 - 11:30 (Breakout Session THREE)
-    - Multiple Choice Unit 1, FRQ 1, FRQ 1 from 2024/2025
+    - Multiple Choice Unit 1, FRQ 1, FRQ 1 from 2025/2026
 - 11:30 - 12:00 (Lunch)	
 - 12:00 - 12:30 (Asynchronous)
 	- Unit 1 Assessments
@@ -117,7 +117,7 @@ redirect_from: /courses/precalculus.html
 - 9:05 - 9:45 (Breakout Session TWO)
 	- Multiple Choice Questions Unit 2
     - FRQ 2
-    - FRQ 2 (2024, 2025)
+    - FRQ 2 (2025, 2026)
 - 9:45 - 9:50 (Large Group)
 	- Debrief FRQ 2
 - 9:50 - 10:00 (Break)	
@@ -138,7 +138,7 @@ redirect_from: /courses/precalculus.html
 - 12:30 - 12:40 (Large Group)
 	- Deep Dive - FRQ 3
 - 12:40 - 1:20 (Breakout Session FIVE)
-	- FRQ 3, FRQ 3 (2024,2025)
+	- FRQ 3, FRQ 3 (2025, 2026)
 - 1:20 - 1:30 (Large Group)
 	- Unit 3 Definitions (Tan/Cot/Sec/Csc)
 - 1:30 - 2:00 (Breakout Session SIX)
@@ -154,7 +154,7 @@ redirect_from: /courses/precalculus.html
 - 3:00 - 3:10 (Large Group)
     - Deep Dive - FRQ 4
 - 3:10 - 3:45 (Breakout Session EIGHT)
-	- FRQ 4, FRQ 4 (2024, 2025)
+	- FRQ 4, FRQ 4 (2025, 2026)
 - 3:45 - 3:55 (Large Group)
 	- Debrief FRQ 4
 - 3:55 - 4:00 (Large Group)
