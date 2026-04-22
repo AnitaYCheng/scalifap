@@ -40,8 +40,10 @@ Fax: (310) 891-3469
 - The Presenters will post their daily schedules when class begins.
 - College Board materials: All registrants with a U.S. Continental residence and International address will receive an electronic copy via email.
 
-## Scholarships
-Please contact your A.P. Coordinator or [visit the College Board website](https://apcentral.collegeboard.org/professional-development/workshops-summer-institutes/summer-institute-scholarships) for further information and eligibility.
+## Participant Grant Awards
+Please contact your AP&reg; Coordinator or [visit the College Board website](https://apcentral.collegeboard.org/professional-learning/ap-summer-institutes/participant-grants) for further information and eligibility.
+
+Participant Grant Award recipients: If the College Board Grant recipient wishes to cancel, the recipient must notify the Southern California AP&reg; Institute of their cancellation by July 20; otherwise, the Grant recipient will be responsible for the full tuition owed to Southern California AP&reg; Institute.
 
 ## CEU Certificates
 Within one day of the conclusion of the workshop, you will receive a certificate (via email) that states completion of a College Board endorsed (30 Contact Hours) Professional Development training in your subject area. If you are seeking to acquire CEU credits for your participation, this should meet the requirements.
