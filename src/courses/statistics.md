@@ -1,5 +1,5 @@
 ---
-title: 'Statistics'
+title: 'Statistics (FULL)'
 permalink: /courses/statistics/
 instructor: Josh Tabor
 instructorNew: true
@@ -7,6 +7,8 @@ titleShort:
 redirect_from: /courses/stats.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
+
+***Note**: This class is currently full. Please check back for updates about class availability.*
 
 ## Description
 Welcome to the wonderful world of AP&reg; Statistics! I look forward to working with you and hope that you leave feeling prepared and excited about the opportunity to teach AP&reg; Statistics. During the workshop we will:

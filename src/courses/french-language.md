@@ -1,12 +1,14 @@
 ---
-title: 'French Language and Culture'
+title: 'French Language and Culture (FULL)'
 permalink: /courses/french-language/
 instructor: François Wolman
 instructorNew: false
-titleShort: 'French Language'
+titleShort: 'French Language (FULL)'
 redirect_from: /courses/french.html
 ---
 <p class="center">Taught by {{ instructor }}</p>
+
+***Note**: This class is currently full. Please check back for updates about class availability.*
 
 ## Goals
 - To familiarize participants with the content and the different components of the AP® test: listening, speaking, reading, and writing.
