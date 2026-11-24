@@ -5,6 +5,7 @@ instructor: Lou Gallo
 instructorNew: false
 titleShort: 
 redirect_from: /courses/europeanhistory.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

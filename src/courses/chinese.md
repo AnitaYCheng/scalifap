@@ -1,10 +1,10 @@
 ---
 title: 'Chinese Language and Culture'
 permalink: /courses/chinese/
-instructor: Lili Wong
+instructor: JianMin "Jassy" Luo
 instructorNew: true
 titleShort: 'Chinese Language'
-
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

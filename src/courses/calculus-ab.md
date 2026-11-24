@@ -4,6 +4,7 @@ permalink: /courses/calculus-ab/
 instructor: Mark Kiraly
 instructorNew: false
 redirect_from: /courses/calculusab.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

@@ -2,9 +2,9 @@
 title: 'African American Studies'
 permalink: /courses/african-american-studies/
 instructor: Dr. Kamasi Hill
-instructorNew: true
+instructorNew: 
 titleShort: 
-
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

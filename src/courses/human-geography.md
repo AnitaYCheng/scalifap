@@ -5,6 +5,7 @@ instructor: Chris Hall
 instructorNew: false
 titleShort: 
 redirect_from: /courses/geography.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

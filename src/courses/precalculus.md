@@ -2,9 +2,10 @@
 title: 'Precalculus'
 permalink: /courses/precalculus/
 instructor: Todd Steckler
-instructorNew: true
+instructorNew: 
 titleShort: 
 redirect_from: /courses/precalculus.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

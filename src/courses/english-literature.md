@@ -5,6 +5,7 @@ instructor: Tamara Rodriguez-Kam
 instructorNew: false
 titleShort: English Literature
 redirect_from: /courses/englishlit.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

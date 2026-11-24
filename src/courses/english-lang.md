@@ -5,6 +5,7 @@ instructor: Nanci Bush
 instructorNew: false
 titleShort: 'English Language'
 redirect_from: /courses/englishlang.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

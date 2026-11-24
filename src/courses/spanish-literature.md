@@ -5,6 +5,7 @@ instructor: Angélica Jiménez
 instructorNew: false
 titleShort: Spanish Literature
 redirect_from: /courses/spanishlit.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

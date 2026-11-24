@@ -4,6 +4,7 @@ permalink: /courses/calculus-bc/
 instructor: Dennis Donovan
 instructorNew: false
 redirect_from: /courses/calculusbc.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

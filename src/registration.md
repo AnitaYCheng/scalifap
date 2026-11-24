@@ -21,7 +21,7 @@ Any course enrollment changes made after {{ site.lateRegistrationDeadline }} may
 
 ### Payment options
 - **Check**, made payable to Southern California AP, Inc.
-- **Purchase Order** providing a copy to reserve course placement. Prepayment is required prior to workshop starting date. Note: Purchase Orders will be accepted prior to {{ site.purchaseOrderDeadline }}. After this date, we will not be accepting Purchase Orders as a form of payment. However, credit card and check payment will still be honored.
+- **Purchase Order** providing a copy to reserve course placement. Prepayment is required prior to the workshop starting date. Note: Purchase Orders will be accepted prior to {{ site.purchaseOrderDeadline }}. After this date, we will not be accepting Purchase Orders as a form of payment. However, credit card and check payment will still be honored.
 - **Visa, Mastercard, Discover, or American Express credit cards** (online payment only)
 
 Please mail, fax, or e-mail your purchase order. Mail your check to:

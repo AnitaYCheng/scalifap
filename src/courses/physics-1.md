@@ -5,6 +5,7 @@ instructor: Connie Wells
 instructorNew: false
 titleShort: Physics 1
 redirect_from: /courses/physics.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

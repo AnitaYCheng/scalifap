@@ -1,14 +1,13 @@
 ---
-title: 'Spanish Language and Culture (FULL)'
+title: 'Spanish Language and Culture'
 permalink: /courses/spanish-language/
 instructor: Jorge Zamora
 instructorNew: false
-titleShort: Spanish Language (FULL)
+titleShort: Spanish Language
 redirect_from: /courses/spanishlang.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
-
-***Note**: This class is currently full. Please check back for updates about class availability.*
 
 ## Overview
 Designed for teachers implementing the redesigned AP&reg; Spanish Language & Culture course and digital exam beginning in 2026–2027.

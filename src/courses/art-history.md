@@ -3,6 +3,7 @@ title: 'Art History'
 permalink: /courses/art-history/
 instructor: Dr. Robert Coad
 redirect_from: /courses/arthistory.html
+eleventyExcludeFromCollections: true
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

@@ -2,8 +2,9 @@
 title: 'Art and Design'
 permalink: /courses/art/
 instructor: Martin Loftus
-instructorNew: true
+instructorNew: 
 redirect_from: /courses/art.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

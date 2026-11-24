@@ -2,9 +2,10 @@
 title: 'Psychology'
 permalink: /courses/psychology/
 instructor: Mike Berndt
-instructorNew: true
+instructorNew: 
 titleShort: 
 redirect_from: /courses/psychology.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

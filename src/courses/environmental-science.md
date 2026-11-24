@@ -1,10 +1,11 @@
 ---
 title: 'Environmental Science'
 permalink: /courses/environmental-science/
-instructor: Courtney Mayer
+instructor: Andrew Milbauer
 instructorNew: true
 titleShort: 
 redirect_from: /courses/environment.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

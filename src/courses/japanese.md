@@ -2,9 +2,9 @@
 title: 'Japanese Language and Culture'
 permalink: /courses/japanese/
 instructor: Mihoko Yamamura
-instructorNew: true
+instructorNew: 
 titleShort: 'Japanese Language'
-
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

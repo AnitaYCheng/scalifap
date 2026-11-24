@@ -4,6 +4,7 @@ permalink: /courses/chemistry/
 instructor: Dale Jensen
 instructorNew: false
 redirect_from: /courses/chemistry.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

@@ -5,6 +5,7 @@ instructor: Chris Averill
 instructorNew: false
 titleShort: 
 redirect_from: /courses/ushistory.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 <!--

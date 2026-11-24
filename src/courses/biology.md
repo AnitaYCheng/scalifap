@@ -4,6 +4,7 @@ permalink: /courses/biology/
 instructor: Pat Mote
 instructorNew: false
 redirect_from: /courses/biology.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 

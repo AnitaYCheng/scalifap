@@ -5,6 +5,7 @@ instructor: Terri Susan Fine, Ph.D
 instructorNew: false
 titleShort: 
 redirect_from: /courses/usgovt.html
+eleventyExcludeFromCollections:
 ---
 <p class="center">Taught by {{ instructor }}</p>
 
